@@ -1,1 +1,1 @@
-# botlistmain
+﻿Botlist İyi Kullanımlar
